@@ -1,7 +1,8 @@
 function AuthRegister(){
-    return (<div>
+    return (
+    <div>
         Register
-            </div>
+    </div>
         );
     }
 export default AuthRegister;
